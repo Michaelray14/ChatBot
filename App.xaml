@@ -4,5 +4,11 @@
              xmlns:local="clr-namespace:chatbot"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
+    <ResourceDictionary>
+        <ResourceDictionary.MergedDictionaries>
+            <ResourceDictionary Source="./Themes/ContactCard.xaml" />
+            
+        </ResourceDictionary.MergedDictionaries>
+    </ResourceDictionary>
     </Application.Resources>
 </Application>

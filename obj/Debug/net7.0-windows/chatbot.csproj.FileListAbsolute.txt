@@ -20,3 +20,5 @@ c:\Users\micha\OneDrive\Documents\ResumeProject\chatbot\obj\Debug\net7.0-windows
 c:\Users\micha\OneDrive\Documents\ResumeProject\chatbot\obj\Debug\net7.0-windows\chatbot.genruntimeconfig.cache
 c:\Users\micha\OneDrive\Documents\ResumeProject\chatbot\obj\Debug\net7.0-windows\ref\chatbot.dll
 c:\Users\micha\OneDrive\Documents\ResumeProject\chatbot\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+c:\Users\micha\OneDrive\Documents\ResumeProject\chatbot\obj\Debug\net7.0-windows\Themes\ContactCard.baml
+c:\Users\micha\OneDrive\Documents\ResumeProject\chatbot\obj\Debug\net7.0-windows\App.baml
